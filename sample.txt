@@ -1,0 +1,20 @@
+Claude responded: Here's a comprehensive visual roadmap for learning Git & GitHub: Here's a breakdown of what to focus on at each stage:
+Here's a comprehensive visual roadmap for learning Git & GitHub:
+
+Here's a breakdown of what to focus on at each stage:
+
+Stage 1 — Setup: Install Git, set your username and email with git config, and understand why version control exists before touching any commands.
+
+Stage 2 — Local Git: This is the foundation. Master the basic cycle — stage changes with git add, save them with git commit, and inspect history with git log. Also learn .gitignore early to avoid committing things you shouldn't.
+
+Stage 3 — Branching: The most important Git concept. Branches let you work on features without breaking the main codebase. Practice creating branches, switching between them, and resolving merge conflicts — conflicts are inevitable, so get comfortable with them.
+
+Stage 4 — GitHub: Connect your local repo to GitHub using remotes, push your work, and pull others' changes. Set up SSH keys so you're not typing your password every time.
+
+Stage 5 — Collaboration: This is where GitHub really shines. Learn the fork → clone → branch → PR workflow. This is how virtually all open-source and professional team work happens.
+
+Stage 6 — Advanced Git: Commands like git stash, git reset, git revert, and interactive rebase give you surgical control over your history. Don't rush these — learn them when you need them.
+
+Stage 7 — GitHub Actions: Once comfortable with the rest, automate your testing and deployments. Even a simple workflow that runs tests on every push is enormously valuable.
+The tip cards in the diagram are clickable — tap any one to explore that topic in detail!
+Claude is AI and can make mistakes. Please double-check responses.
